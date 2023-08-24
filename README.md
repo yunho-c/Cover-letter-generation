@@ -6,6 +6,9 @@ This project uses OpenAI's GPT Models, Langchain, and Streamlit to create an int
 - Upload your resume
 - Generate customized cover letter
 
+## Network
+Custom network developed is also added in the repo.
+
 ## Installation
 
 1. Clone this repository:
